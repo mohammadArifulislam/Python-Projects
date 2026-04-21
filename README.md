@@ -35,7 +35,7 @@ Covers the full analytics pipeline from raw dirty data to interactive dashboards
 
 ## 🚀 How to Run
 \```bash
-git clone https://github.com/mohammadArifulislam/python_project.git
+git clone https://github.com/mohammadArifulislam/python_project_portfolio.git
 cd saas-data-analysis-portfolio
 pip install -r requirements.txt
 jupyter notebook notebooks/SaaS_Analysis_Portfolio_Projects.ipynb
