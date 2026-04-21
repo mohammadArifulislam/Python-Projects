@@ -33,13 +33,12 @@ Covers the full analytics pipeline from raw dirty data to interactive dashboards
 - ✅ Interactive Plotly Dashboard (6-panel)
 - ✅ Correlation matrix of key SaaS metrics
 
-## 🚀 How to Run
-\```bash
-git clone https://github.com/mohammadArifulislam/python_project_portfolio.git
-cd saas-data-analysis-portfolio
-pip install -r requirements.txt
-jupyter notebook notebooks/SaaS_Analysis_Portfolio_Projects.ipynb
-\```
+## 📁 How to use it
+
+Place both saas_customers.csv and SaaS_Analysis_Portfolio.ipynb in the same folder
+Open terminal → jupyter notebook → open the file
+Run Kernel → Restart & Run All
+
 
 ## 📸 Dashboard Preview
 ![Dashboard](dashboard.png)
