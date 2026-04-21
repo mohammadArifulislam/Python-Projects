@@ -42,4 +42,4 @@ jupyter notebook notebooks/SaaS_Analysis_Portfolio_Projects.ipynb
 \```
 
 ## 📸 Dashboard Preview
-*(Add a screenshot of your Plotly dashboard here)*
+[Screenshot 2026-04-21 214230.png](Screenshot_2026-04-21_214230.png)
